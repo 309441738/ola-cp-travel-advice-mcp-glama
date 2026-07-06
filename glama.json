@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "309441738"
+  ],
+  "name": "Cruise Travel Advice",
+  "description": "提供关于邮轮旅行的实用建议，包括行前准备、最佳出发时间及目的地推荐，帮助您规划完美的邮轮之旅。"
+}
